@@ -7,9 +7,3 @@
 #### 'europe' => Europe
 
 #### 'BERLINE' => Berlin
-
-## Important Links:
-
-[https://nodejs.dev/learn/nodejs-accept-arguments-from-the-command-line](https://nodejs.dev/learn/nodejs-accept-arguments-from-the-command-line)
-
-[https://www.geeksforgeeks.org/node-js-process-argv-property/](https://www.geeksforgeeks.org/node-js-process-argv-property/)
